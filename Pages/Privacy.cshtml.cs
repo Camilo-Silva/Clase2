@@ -26,7 +26,7 @@ public class PrivacyModel : PageModel
         var parametro = Request.Query["parametrox"];
         Data = new Form();
         Data.Mail = "test@gmail.com";
-        Data.Password = "1234";
+        Data.Password = "12345";
     }
 
     public IActionResult OnPost(){
