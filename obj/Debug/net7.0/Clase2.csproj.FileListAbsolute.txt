@@ -29,3 +29,34 @@ D:\ISTEA\HerramientasDeProgramacion\clase2\obj\Debug\net7.0\refint\Clase2.dll
 D:\ISTEA\HerramientasDeProgramacion\clase2\obj\Debug\net7.0\Clase2.pdb
 D:\ISTEA\HerramientasDeProgramacion\clase2\obj\Debug\net7.0\Clase2.genruntimeconfig.cache
 D:\ISTEA\HerramientasDeProgramacion\clase2\obj\Debug\net7.0\ref\Clase2.dll
+C:\Users\camil\Claro drive\ISTEA\HerramientasDeProgramacion\Clase2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\camil\Claro drive\ISTEA\HerramientasDeProgramacion\Clase2\bin\Debug\net7.0\appsettings.json
+C:\Users\camil\Claro drive\ISTEA\HerramientasDeProgramacion\Clase2\bin\Debug\net7.0\Clase2.staticwebassets.runtime.json
+C:\Users\camil\Claro drive\ISTEA\HerramientasDeProgramacion\Clase2\bin\Debug\net7.0\Clase2.exe
+C:\Users\camil\Claro drive\ISTEA\HerramientasDeProgramacion\Clase2\bin\Debug\net7.0\Clase2.deps.json
+C:\Users\camil\Claro drive\ISTEA\HerramientasDeProgramacion\Clase2\bin\Debug\net7.0\Clase2.runtimeconfig.json
+C:\Users\camil\Claro drive\ISTEA\HerramientasDeProgramacion\Clase2\bin\Debug\net7.0\Clase2.dll
+C:\Users\camil\Claro drive\ISTEA\HerramientasDeProgramacion\Clase2\bin\Debug\net7.0\Clase2.pdb
+C:\Users\camil\Claro drive\ISTEA\HerramientasDeProgramacion\Clase2\obj\Debug\net7.0\Clase2.csproj.AssemblyReference.cache
+C:\Users\camil\Claro drive\ISTEA\HerramientasDeProgramacion\Clase2\obj\Debug\net7.0\Clase2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\Claro drive\ISTEA\HerramientasDeProgramacion\Clase2\obj\Debug\net7.0\Clase2.AssemblyInfoInputs.cache
+C:\Users\camil\Claro drive\ISTEA\HerramientasDeProgramacion\Clase2\obj\Debug\net7.0\Clase2.AssemblyInfo.cs
+C:\Users\camil\Claro drive\ISTEA\HerramientasDeProgramacion\Clase2\obj\Debug\net7.0\Clase2.csproj.CoreCompileInputs.cache
+C:\Users\camil\Claro drive\ISTEA\HerramientasDeProgramacion\Clase2\obj\Debug\net7.0\Clase2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\camil\Claro drive\ISTEA\HerramientasDeProgramacion\Clase2\obj\Debug\net7.0\Clase2.RazorAssemblyInfo.cache
+C:\Users\camil\Claro drive\ISTEA\HerramientasDeProgramacion\Clase2\obj\Debug\net7.0\Clase2.RazorAssemblyInfo.cs
+C:\Users\camil\Claro drive\ISTEA\HerramientasDeProgramacion\Clase2\obj\Debug\net7.0\staticwebassets\msbuild.Clase2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\camil\Claro drive\ISTEA\HerramientasDeProgramacion\Clase2\obj\Debug\net7.0\staticwebassets\msbuild.build.Clase2.props
+C:\Users\camil\Claro drive\ISTEA\HerramientasDeProgramacion\Clase2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Clase2.props
+C:\Users\camil\Claro drive\ISTEA\HerramientasDeProgramacion\Clase2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Clase2.props
+C:\Users\camil\Claro drive\ISTEA\HerramientasDeProgramacion\Clase2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\camil\Claro drive\ISTEA\HerramientasDeProgramacion\Clase2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\camil\Claro drive\ISTEA\HerramientasDeProgramacion\Clase2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\camil\Claro drive\ISTEA\HerramientasDeProgramacion\Clase2\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\camil\Claro drive\ISTEA\HerramientasDeProgramacion\Clase2\obj\Debug\net7.0\scopedcss\bundle\Clase2.styles.css
+C:\Users\camil\Claro drive\ISTEA\HerramientasDeProgramacion\Clase2\obj\Debug\net7.0\scopedcss\projectbundle\Clase2.bundle.scp.css
+C:\Users\camil\Claro drive\ISTEA\HerramientasDeProgramacion\Clase2\obj\Debug\net7.0\Clase2.dll
+C:\Users\camil\Claro drive\ISTEA\HerramientasDeProgramacion\Clase2\obj\Debug\net7.0\refint\Clase2.dll
+C:\Users\camil\Claro drive\ISTEA\HerramientasDeProgramacion\Clase2\obj\Debug\net7.0\Clase2.pdb
+C:\Users\camil\Claro drive\ISTEA\HerramientasDeProgramacion\Clase2\obj\Debug\net7.0\Clase2.genruntimeconfig.cache
+C:\Users\camil\Claro drive\ISTEA\HerramientasDeProgramacion\Clase2\obj\Debug\net7.0\ref\Clase2.dll
